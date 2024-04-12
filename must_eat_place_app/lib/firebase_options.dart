@@ -52,12 +52,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBcU3IXCHWHv2wbAXqAWiaA3zuhsKi3rH8',
-    appId: '1:678074128430:ios:848b2303dafe7b86dde7bf',
-    messagingSenderId: '678074128430',
-    projectId: 'musteatplace-9e295',
-    storageBucket: 'musteatplace-9e295.appspot.com',
-    iosBundleId: 'com.example.mustEatPlaceApp',
-  );
+
 }
